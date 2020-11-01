@@ -1,0 +1,16 @@
+<resources>
+    <!-- Reply Preference -->
+    <string-array name="inputModeOptions">
+        <item name="1">None</item>
+        <item name="2">\\n</item>
+        <item name="3">\\r</item>
+        <item name="4">\\r\\n</item>
+    </string-array>
+
+    <string-array name="inputModeValues">
+        <item name="1">1</item>
+        <item name="2">2</item>
+        <item name="3">3</item>
+        <item name="4">4</item>
+    </string-array>
+</resources>
